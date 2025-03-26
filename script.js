@@ -1,3 +1,20 @@
+<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+    <script>
+
+
+var typed = new Typed("#element", {
+        strings: [
+          "Web Developer .",
+          "Frontend Developer .",
+          "UI UX Designer.",
+          "Web Designer.",
+        ],
+        typeSpeed: 50,
+        backSpeed: 50,
+        loop: true,
+      });
+
+
 var tablinks = document.getElementsByClassName("tab-links");
 var tabcontents = document.getElementsByClassName("tab-contents");
 
