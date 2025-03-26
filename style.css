@@ -8,14 +8,6 @@ body{
     background: #080808;
     color: #fff;
 }
- #element {
-        color: rgb(103, 29, 240);
-      }
-     .purple {
-        color: rgb(103, 29, 240);
-      }
-
-
 html{
     scroll-behavior: smooth;
 }
